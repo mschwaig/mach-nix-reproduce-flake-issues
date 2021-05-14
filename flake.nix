@@ -3,7 +3,7 @@
     nixpkgs.url = github:nixos/nixpkgs/nixos-unstable;
     flake-utils.url = github:numtide/flake-utils;
     pypi-deps-db = {
-      url = github:DavHau/pypi-deps-db;
+      url = github:DavHau/pypi-deps-db/bada1c33c0040398aa9465ccd60845d31343cc3a;
       flake = false;
     };
     mach-nix = {
